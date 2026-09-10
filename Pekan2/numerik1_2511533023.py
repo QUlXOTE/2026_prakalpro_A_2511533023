@@ -8,4 +8,4 @@ print("The type of variable having value",b_3023,"is",type(b_3023))
 
  # create a variable with complex value.
 c_3023 = 100+3j
-print("The type of variable having value",c_3023,"is",type(c_3023))
+print("The type of variable having value",c_3023,"is",type(c_3023)) 
