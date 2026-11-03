@@ -2,8 +2,8 @@
 """Self-check for the loop practicum. Python 3.8+, standard library only.
 
 Run from the repository root:
-    python selfcheck.py --digit 7              check everything
-    python selfcheck.py --digit 7 --target 2   check the case study up to target 2
+    python selfcheck.py --digit 3              check everything
+    python selfcheck.py --digit 3 --target 2   check the case study up to target 2
     python selfcheck.py --task t14             check one task
     python selfcheck.py --lang en              show messages in English
 
